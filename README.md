@@ -21,3 +21,7 @@
    10 Optional Additions: Sensors (like ultrasonic or infrared sensors) for obstacle detection, a camera for live            streaming, or an additional module for specific functionalities.
 
 #Make sure to check the compatibility of the components and carefully integrate them following appropriate wiring diagrams and programming the microcontroller to receive and interpret commands sent via Bluetooth.
+
+
+Take the cables that are connected to the motors and install them to the DC motor controller
+ TXD - transfer data, RXD - receive data. Female - male jumper wires may be needed.
